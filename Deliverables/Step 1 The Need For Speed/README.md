@@ -41,5 +41,4 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 ![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/FullyRecovered.png)
 
-Submit a screen shot of your report and the answer to the questions above.
 
