@@ -13,6 +13,10 @@
      - Look for the `name` field to find failed logins.
      - Note the attack lasted several hours.
 
+#### The attack started on February 21st, 2020 at 2am.
+
+
+
       
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
 
