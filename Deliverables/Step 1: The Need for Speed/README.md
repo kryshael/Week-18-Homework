@@ -24,6 +24,8 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
     - `ratio`
   
    Hint: Use the following format when for the `table` command: `| table fieldA  fieldB fieldC`
+   
+#### source="server_speedtest.csv" host="Linux_Server" sourcetype="csv" | eval ratio = 'DOWNLOAD_MEGABITS' / 'UPLOAD_MEGABITS' |table _time IP_ADDRESS DOWNLOAD_MEGABITS UPLOAD_MEGABITS ratio
 
 4. Answer the following questions:
 
