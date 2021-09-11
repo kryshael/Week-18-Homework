@@ -80,7 +80,7 @@ Submit a screen shot of your report and the answer to the questions above.
 **Task:** Create a report determining how many critical vulnerabilities exist on the customer data server. Then, build an alert to notify your team if a critical vulnerability reappears on this server.
 
 1. Upload the following file from the Nessus vulnerability scan.
-   - [Nessus Scan Results](resources/nessus_logs.csv)
+   - [Nessus Scan Results](https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/vu-virt-cyber-pt-04-2021-u-lol/-/blob/master/2-Homework/18-SIEMs/resources/nessus_logs.csv)
 
 2. Create a report that shows the `count` of critical vulnerabilities from the customer database server.
    - The database server IP is `10.11.36.23`.
