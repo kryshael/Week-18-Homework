@@ -15,7 +15,7 @@
 
 #### source="nessus_logs.csv" host="Nessus_Scans" sourcetype="csv" dest_ip="10.11.36.23" severity=critical
 
-![](
+![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/Severity.png)
       
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to `soc@vandalay.com`.
 
