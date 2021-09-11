@@ -24,6 +24,6 @@
 
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered. 
 
-
+![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/ThreshholdAlert.png)
 
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
