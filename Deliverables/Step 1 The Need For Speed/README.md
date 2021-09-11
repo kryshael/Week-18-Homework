@@ -33,7 +33,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 #### The attack occurred on February 23, 2020 at 8:30am
 
-![](Assets/AttackTime.png)
+![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/AttackTime.png)
 
     - How long did it take your systems to recover?
     
