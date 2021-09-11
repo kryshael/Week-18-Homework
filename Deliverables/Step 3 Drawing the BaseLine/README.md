@@ -15,7 +15,7 @@
 
 #### The attack started on February 21st, 2020 at 2am.
 
-
+![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/BruteAttackStart.png)
 
       
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
