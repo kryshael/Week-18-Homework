@@ -6,7 +6,7 @@
 **Task:** Analyze administrator logs that document a brute force attack. Then, create a baseline of the ordinary amount of administrator bad logins and determine a threshold to indicate if a brute force attack is occurring.
 
 1. Upload the administrator login logs.
-   - [Admin Logins](resources/Administrator_logs.csv)
+   - [Admin Logins](https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/vu-virt-cyber-pt-04-2021-u-lol/-/blob/master/2-Homework/18-SIEMs/resources/Administrator_logs.csv)
 
 2. When did the brute force attack occur?
    - Hints:
