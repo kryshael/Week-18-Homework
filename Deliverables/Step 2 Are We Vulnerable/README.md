@@ -12,6 +12,10 @@
 2. Create a report that shows the `count` of critical vulnerabilities from the customer database server.
    - The database server IP is `10.11.36.23`.
    - The field that identifies the level of vulnerabilities is `severity`.
+
+#### source="nessus_logs.csv" host="Nessus_Scans" sourcetype="csv" dest_ip="10.11.36.23" severity=critical
+
+![](
       
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to `soc@vandalay.com`.
 
