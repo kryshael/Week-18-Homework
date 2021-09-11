@@ -39,5 +39,6 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
     
 #### The systems recovered at 5:30pm. Downtime was 9 hours.
 
-Submit a screen shot of your report and the answer to the questions above.
+![](https://github.com/kryshael/Week-18-Homework/blob/main/Assets/FullyRecovered.png)
+
 
